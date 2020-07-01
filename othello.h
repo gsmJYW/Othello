@@ -1,0 +1,6 @@
+#include "retry.h"
+#include "getID.h"
+#include "startMenu.h"
+#include "printResult.h"
+#include "piecePlace.h"
+#include "checkFinish.h"
